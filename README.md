@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @forifelsethenhow!
 - 👀 I’m interested in creating a text-based adventure game & webpage design for my personal blog 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on a text-based adventure game using Python
 - 📫 Contact me at onghuiwen@hotmail.com if you're interested 
 
